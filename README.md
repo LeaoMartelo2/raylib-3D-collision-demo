@@ -24,3 +24,20 @@ This is a extracted and modified code from [my other project](https://github.com
 
  Very simple gravity system, used to allow for testing walking / jumping on top of colliders;
 
+
+## Building the project
+
+As of now, the project only supports `Linux x86_64`, I might add support to more platforms in the future.
+
+Building:
+
+```bash
+git clone https://github.com/LeaoMartelo2/raylib-3D-collision-demo
+
+cd raylib-3D-collision-demo
+
+make
+```
+
+
+
