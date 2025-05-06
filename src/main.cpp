@@ -118,6 +118,8 @@ bool check_collision_collider(const Collider &a, const Collider &b, MTV *mtv) {
 }
 
 int main() {
+
+    SetConfigFlags(FLAG_MSAA_4X_HINT);
     InitWindow(800, 600, "Raylib SAT 3D collision demo");
     SetTargetFPS(60);
 
