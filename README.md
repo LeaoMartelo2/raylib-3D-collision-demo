@@ -13,11 +13,14 @@ This is a extracted and modified code from [my other project](https://github.com
 ## Features
 
  - Collider class
+
  Gives you a very simple collider class, with the bare minimum to make cuboid Oriented Bounding Boxes.
 
  - Player class
+
  Gives you a very bare bones player class, that contains a collider, to move around with `WASD` and `SPACE` to play with the collisions.
 
  - Gravity
+
  Very simple gravity system, used to allow for testing walking / jumping on top of colliders;
 
