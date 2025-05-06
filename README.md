@@ -10,6 +10,11 @@ This is a extracted and modified code from [my other project](https://github.com
 
 ## This is in no way the best or most efficient, it's very bare bones and it's only here to serve as example to anyone wanting a template of 3D collisions to work in raylib. 
 
+It spawns 6 randomly sized and placed colliders (near the center of the field), for you to test the collisions;
+(there is no check if it makes the player stuck on start)
+
+Objects that are currently colliding turn `RED`, the player turns `GREEN` when not colliding with anything.
+
 ## Features
 
  - Collider class
@@ -23,6 +28,8 @@ This is a extracted and modified code from [my other project](https://github.com
  - Gravity
 
  Very simple gravity system, used to allow for testing walking / jumping on top of colliders;
+
+
 
 
 ## Building the project
