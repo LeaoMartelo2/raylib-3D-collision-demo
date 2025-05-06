@@ -2,7 +2,7 @@
 
 This aims to be a example of how to implement the Separating axis theorem [(SAT)](https://en.wikipedia.org/wiki/Hyperplane_separation_theorem) collision detection algorithm in C++ using [Raylib](https://github.com/raysan5/raylib)
 
-<img = src="screenshot.png">
+<img src="screenshot.png">
 
 This is a extracted and modified code from [my other project](https://github.com/LeaoMartelo2/wireframe_game), simplified to be a template / example of 3D collisions in raylib.
 
