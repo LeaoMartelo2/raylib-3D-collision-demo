@@ -118,8 +118,6 @@ bool check_collision_collider(const Collider &a, const Collider &b, MTV *mtv) {
 }
 
 int main() {
-    const int screenWidth = 800;
-    const int screenHeight = 450;
     InitWindow(800, 600, "Raylib SAT 3D collision demo");
     SetTargetFPS(60);
 
